@@ -2,10 +2,10 @@
 
 PHP version  Tester : 7.4
 
-# Pharmapreneur-app1
+# Pharmapreneur.ac.id
 
 ONLY DOMAIN : 
-https://pharmapreneur.ac.id/
+https://pharmapreneur.ac.id/ OR http://pharmapreneur.ac.id/
 
 # Web UI
 ![ice_screenshot_20220819-014331](https://user-images.githubusercontent.com/67509798/185461094-c6de38be-816c-45af-a399-5a1ee854ae58.png)
@@ -36,3 +36,5 @@ https://pharmapreneur.ac.id/
 ![ice_screenshot_20220809-022249](https://user-images.githubusercontent.com/67509798/183487652-1e7449b5-ba83-4d9a-96c2-a4c230d9072a.png)
 ![ice_screenshot_20220809-022402](https://user-images.githubusercontent.com/67509798/183487679-17cdb7bd-c104-430c-935f-2e25563797e0.png)
 ![ice_screenshot_20220809-022423](https://user-images.githubusercontent.com/67509798/183487705-a7051945-55b8-4c33-8cf6-0f7818c470d8.png)
+
+KODE APP : 085000
