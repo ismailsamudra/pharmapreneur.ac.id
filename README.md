@@ -6,7 +6,7 @@ PHP version  Tester : 7.4
 
 ONLY DOMAIN : 
 * https://pharmapreneur.ac.id/ 
-OR
+# OR
 * http://pharmapreneur.ac.id/
 
 # Web UI
