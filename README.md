@@ -7,7 +7,7 @@ PHP version  Tester : 7.4
 ONLY DOMAIN : 
 * https://pharmapreneur.ac.id/ 
 OR
-*http://pharmapreneur.ac.id/
+* http://pharmapreneur.ac.id/
 
 # Web UI
 ![ice_screenshot_20220819-014331](https://user-images.githubusercontent.com/67509798/185461094-c6de38be-816c-45af-a399-5a1ee854ae58.png)
