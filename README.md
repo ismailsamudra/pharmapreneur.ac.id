@@ -37,4 +37,4 @@ https://pharmapreneur.ac.id/ OR http://pharmapreneur.ac.id/
 ![ice_screenshot_20220809-022402](https://user-images.githubusercontent.com/67509798/183487679-17cdb7bd-c104-430c-935f-2e25563797e0.png)
 ![ice_screenshot_20220809-022423](https://user-images.githubusercontent.com/67509798/183487705-a7051945-55b8-4c33-8cf6-0f7818c470d8.png)
 
-KODE APP : 085000
+KODE APPS : 085000
